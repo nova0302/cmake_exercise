@@ -1,3 +1,0 @@
-/home/sanglaekim/work/cpp_work/conditionalWithPolymorphism/build/CMakeFiles/condWithPoly.dir
-/home/sanglaekim/work/cpp_work/conditionalWithPolymorphism/build/CMakeFiles/edit_cache.dir
-/home/sanglaekim/work/cpp_work/conditionalWithPolymorphism/build/CMakeFiles/rebuild_cache.dir

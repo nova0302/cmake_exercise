@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/condWithPoly.dir/main.cc.o CMakeFiles/condWithPoly.dir/src/Blah.cc.o CMakeFiles/condWithPoly.dir/src/bar.cc.o CMakeFiles/condWithPoly.dir/src/foo.cc.o -o condWithPoly 

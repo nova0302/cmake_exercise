@@ -61,7 +61,7 @@ public:
 
 int main(int argc, char *argv[])
 {
-  cout << "메인" << endl;
+  cout << "전력화시제" << endl;
 
   Blah().boo();
   Blah().boo();

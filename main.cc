@@ -61,7 +61,7 @@ public:
 
 int main(int argc, char *argv[])
 {
-  cout << "Hello World" << endl;
+  cout << "메인" << endl;
 
   Blah().boo();
   Blah().boo();
